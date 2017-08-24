@@ -360,6 +360,10 @@
         <target>Hide Others</target>
         <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
       </trans-unit>
+      <trans-unit id="W7l-WU-jpO.title">
+        <source>Learn about the Pro Upgrade</source>
+        <note>Class = "NSMenuItem"; title = "Learn about the Pro Upgrade"; ObjectID = "W7l-WU-jpO";</note>
+      </trans-unit>
       <trans-unit id="W48-6f-4Dl.title">
         <source>Edit</source>
         <target>Edit</target>
@@ -860,9 +864,9 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <note>Class = "NSTextFieldCell"; title = "Default file extension"; ObjectID = "3Aw-Ye-hkD";</note>
       </trans-unit>
       <trans-unit id="3NB-Uy-OaN.title">
-        <source>Require trigger key after expansion (e.g. space, tab, punctuation)</source>
+        <source>Require space or punctuation after expansion</source>
         <target>Require trigger key after expansion (e.g. space, tab, punctuation)</target>
-        <note>Class = "NSButtonCell"; title = "Require trigger key after expansion (e.g. space, tab, punctuation)"; ObjectID = "3NB-Uy-OaN";</note>
+        <note>Class = "NSButtonCell"; title = "Require space or punctuation after expansion"; ObjectID = "3NB-Uy-OaN";</note>
       </trans-unit>
       <trans-unit id="3gh-s1-pKb.title">
         <source>Nederlands</source>
@@ -1020,9 +1024,9 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <note>Class = "NSMenuItem"; title = "**"; ObjectID = "GWF-SO-BW6";</note>
       </trans-unit>
       <trans-unit id="Gar-Xt-cZ4.title">
-        <source>Regular Undo mode</source>
+        <source>Regular Undo</source>
         <target>Regular Undo mode</target>
-        <note>Class = "NSButtonCell"; title = "Regular Undo mode"; ObjectID = "Gar-Xt-cZ4";</note>
+        <note>Class = "NSButtonCell"; title = "Regular Undo"; ObjectID = "Gar-Xt-cZ4";</note>
       </trans-unit>
       <trans-unit id="I1l-5e-XOn.title">
         <source>Enable Smart Pairs</source>
@@ -1044,30 +1048,19 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <target>Left</target>
         <note>Class = "NSMenuItem"; title = "Left"; ObjectID = "J1b-u1-pNY";</note>
       </trans-unit>
-      <trans-unit id="Jg5-9V-hgc.title">
-        <source>Weekly</source>
-        <target>Weekly</target>
-        <note>Class = "NSMenuItem"; title = "Weekly"; ObjectID = "Jg5-9V-hgc";</note>
-      </trans-unit>
       <trans-unit id="JuI-oa-hxv.title">
         <source>Comment</source>
         <target>Comment</target>
         <note>Class = "NSTextFieldCell"; title = "Comment"; ObjectID = "JuI-oa-hxv";</note>
       </trans-unit>
-      <trans-unit id="Jwr-BP-jFk.title">
-        <source>This sends basic system information (OS X version, CPU type, RAM, etc.) when checking for updates.  It's nothing that interesting, but helps me to know what sort of hardware I need to be able to support.  Please check the box!</source>
-        <target>This sends basic system information (OS X version, CPU type, RAM, etc.) when checking for updates.  It's nothing that interesting, but helps me to know what sort of hardware I need to be able to support.  Please check the box!</target>
-        <note>Class = "NSTextFieldCell"; title = "This sends basic system information (OS X version, CPU type, RAM, etc.) when checking for updates.  It's nothing that interesting, but helps me to know what sort of hardware I need to be able to support.  Please check the box!"; ObjectID = "Jwr-BP-jFk";</note>
-      </trans-unit>
-      <trans-unit id="KHo-db-EHt.title">
-        <source>Hourly</source>
-        <target>Hourly</target>
-        <note>Class = "NSMenuItem"; title = "Hourly"; ObjectID = "KHo-db-EHt";</note>
-      </trans-unit>
-      <trans-unit id="KgB-OD-Ph9.title">
-        <source>OtherViews</source>
-        <target>OtherViews</target>
-        <note>Class = "NSMenu"; title = "OtherViews"; ObjectID = "KgB-OD-Ph9";</note>
+      <trans-unit id="KBP-X4-E4K.title">
+        <source>(Change takes effect with new windows)
+
+Regular Undo mode works like most applications.  If you undo several changes, and then type something, your prior changes are now lost.
+
+History Mode Undo allows you to step backwards and forwards even if you typed something new in the meantime. Basically, it keeps all of your changes until the document is closed.
+</source>
+        <note>Class = "NSTextFieldCell"; title = "(Change takes effect with new windows)\n\nRegular Undo mode works like most applications.  If you undo several changes, and then type something, your prior changes are now lost.\n\nHistory Mode Undo allows you to step backwards and forwards even if you typed something new in the meantime. Basically, it keeps all of your changes until the document is closed.\n"; ObjectID = "KBP-X4-E4K";</note>
       </trans-unit>
       <trans-unit id="LJz-LJ-0L0.title">
         <source>Default Theme</source>
@@ -1088,11 +1081,6 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <source>Display preview</source>
         <target>Display preview</target>
         <note>Class = "NSButtonCell"; title = "Display preview"; ObjectID = "Lu9-eq-OOw";</note>
-      </trans-unit>
-      <trans-unit id="MJJ-4B-1gi.title">
-        <source>Check for updates now</source>
-        <target>Check for updates now</target>
-        <note>Class = "NSButtonCell"; title = "Check for updates now"; ObjectID = "MJJ-4B-1gi";</note>
       </trans-unit>
       <trans-unit id="MKb-1g-Uus.title">
         <source>Enable automatic text expansion</source>
@@ -1164,11 +1152,6 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <target>Automatically add anchors to headers</target>
         <note>Class = "NSButtonCell"; title = "Automatically add anchors to headers"; ObjectID = "Q2V-Ew-tkk";</note>
       </trans-unit>
-      <trans-unit id="QDg-td-zaA.title">
-        <source>Automatically download new versions</source>
-        <target>Automatically download new versions</target>
-        <note>Class = "NSButtonCell"; title = "Automatically download new versions"; ObjectID = "QDg-td-zaA";</note>
-      </trans-unit>
       <trans-unit id="QWQ-DL-ugk.title">
         <source>Maximum Full Screen Width (Pixels)</source>
         <target>Maximum Full Screen Width (Pixels)</target>
@@ -1203,11 +1186,6 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <source>Markdown Mode</source>
         <target>Markdown Mode</target>
         <note>Class = "NSTextFieldCell"; title = "Markdown Mode"; ObjectID = "SAL-Ee-c9m";</note>
-      </trans-unit>
-      <trans-unit id="TFj-gF-yyN.title">
-        <source>Daily</source>
-        <target>Daily</target>
-        <note>Class = "NSMenuItem"; title = "Daily"; ObjectID = "TFj-gF-yyN";</note>
       </trans-unit>
       <trans-unit id="TMO-9c-GL7.title">
         <source>Skip line between list items</source>
@@ -1254,11 +1232,6 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <target>Svenska</target>
         <note>Class = "NSMenuItem"; title = "Svenska"; ObjectID = "XAk-dn-ik3";</note>
       </trans-unit>
-      <trans-unit id="XE3-zc-36J.title">
-        <source>Send anonymous system information</source>
-        <target>Send anonymous system information</target>
-        <note>Class = "NSButtonCell"; title = "Send anonymous system information"; ObjectID = "XE3-zc-36J";</note>
-      </trans-unit>
       <trans-unit id="XGE-QT-tvi.title">
         <source>Shift</source>
         <target>Shift</target>
@@ -1280,14 +1253,18 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <note>Class = "NSButtonCell"; title = "Force \"complete\" document"; ObjectID = "Y86-m4-93d";</note>
       </trans-unit>
       <trans-unit id="YBo-Xp-aNg.title">
-        <source>History Undo mode</source>
+        <source>History Mode Undo</source>
         <target>History Undo mode</target>
-        <note>Class = "NSButtonCell"; title = "History Undo mode"; ObjectID = "YBo-Xp-aNg";</note>
+        <note>Class = "NSButtonCell"; title = "History Mode Undo"; ObjectID = "YBo-Xp-aNg";</note>
       </trans-unit>
       <trans-unit id="YfQ-za-V6m.title">
         <source>Enable CriticMarkup Support</source>
         <target>Enable CriticMarkup Support</target>
         <note>Class = "NSButtonCell"; title = "Enable CriticMarkup Support"; ObjectID = "YfQ-za-V6m";</note>
+      </trans-unit>
+      <trans-unit id="Yoo-q1-Pid.title">
+        <source>Table of Contents Sidebar</source>
+        <note>Class = "NSTextFieldCell"; title = "Table of Contents Sidebar"; ObjectID = "Yoo-q1-Pid";</note>
       </trans-unit>
       <trans-unit id="ZnL-XD-R4V.title">
         <source>Item 1</source>
@@ -1305,9 +1282,9 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <note>Class = "NSMenuItem"; title = "Standard Unix/macOS (\\n)"; ObjectID = "aHN-eH-29p";</note>
       </trans-unit>
       <trans-unit id="aLO-eW-wGy.title">
-        <source>File line endings:</source>
+        <source>File line endings</source>
         <target>File line endings:</target>
-        <note>Class = "NSTextFieldCell"; title = "File line endings:"; ObjectID = "aLO-eW-wGy";</note>
+        <note>Class = "NSTextFieldCell"; title = "File line endings"; ObjectID = "aLO-eW-wGy";</note>
       </trans-unit>
       <trans-unit id="ael-OK-g9b.title">
         <source>Enable file transclusion</source>
@@ -1344,11 +1321,6 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <target>Yosemite Light</target>
         <note>Class = "NSMenuItem"; title = "Yosemite Light"; ObjectID = "dMO-i9-jiS";</note>
       </trans-unit>
-      <trans-unit id="dfv-nd-RKj.title">
-        <source>Automatically check for new versions</source>
-        <target>Automatically check for new versions</target>
-        <note>Class = "NSButtonCell"; title = "Automatically check for new versions"; ObjectID = "dfv-nd-RKj";</note>
-      </trans-unit>
       <trans-unit id="dur-W8-kch.ibShadowedDisplayPattern">
         <source>%{value1}@ (%{value2}@)</source>
         <target>%{value1}@ (%{value2}@)</target>
@@ -1379,11 +1351,6 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <target>Apply "Title Case" capitalization to headings</target>
         <note>Class = "NSButtonCell"; title = "Apply \"Title Case\" capitalization to headings"; ObjectID = "gyw-9y-ozW";</note>
       </trans-unit>
-      <trans-unit id="h2i-Pd-jAM.title">
-        <source>Monthly</source>
-        <target>Monthly</target>
-        <note>Class = "NSMenuItem"; title = "Monthly"; ObjectID = "h2i-Pd-jAM";</note>
-      </trans-unit>
       <trans-unit id="hdK-Tl-KuM.title">
         <source>Natural</source>
         <target>Natural</target>
@@ -1413,11 +1380,6 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <source>Advanced Undo Features</source>
         <target>Advanced Undo Features</target>
         <note>Class = "NSTextFieldCell"; title = "Advanced Undo Features"; ObjectID = "jLU-RB-8hK";</note>
-      </trans-unit>
-      <trans-unit id="kKC-YU-7zd.title">
-        <source>(Change takes effect with new windows)</source>
-        <target>(Change takes effect with new windows)</target>
-        <note>Class = "NSTextFieldCell"; title = "(Change takes effect with new windows)"; ObjectID = "kKC-YU-7zd";</note>
       </trans-unit>
       <trans-unit id="kTV-98-ZxH.title">
         <source>New Windows</source>
@@ -1557,11 +1519,6 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
         <source>Correct spelling automatically</source>
         <target>Correct spelling automatically</target>
         <note>Class = "NSButtonCell"; title = "Correct spelling automatically"; ObjectID = "vE9-wr-7nr";</note>
-      </trans-unit>
-      <trans-unit id="vzG-1d-mNd.title">
-        <source>How often?</source>
-        <target>How often?</target>
-        <note>Class = "NSTextFieldCell"; title = "How often?"; ObjectID = "vzG-1d-mNd";</note>
       </trans-unit>
       <trans-unit id="wFN-ww-fPc.title">
         <source>Preferred Syntax Markers</source>
