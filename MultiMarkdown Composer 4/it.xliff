@@ -57,17 +57,17 @@
       </trans-unit>
       <trans-unit id="4Gy-eG-MLo.title">
         <source>Paste As</source>
-        <target>Paste As</target>
+        <target>Incolla Come</target>
         <note>Class = "NSMenuItem"; title = "Paste As"; ObjectID = "4Gy-eG-MLo";</note>
       </trans-unit>
       <trans-unit id="4LY-fO-6ew.title">
         <source>Export…</source>
-        <target>Export…</target>
+        <target>Esporta…</target>
         <note>Class = "NSMenuItem"; title = "Export…"; ObjectID = "4LY-fO-6ew";</note>
       </trans-unit>
       <trans-unit id="4sb-4s-VLi.title">
         <source>Quit MultiMarkdown Composer</source>
-        <target>Quit MultiMarkdown Composer</target>
+        <target>Chiudi MultiMarkdown Composer</target>
         <note>Class = "NSMenuItem"; title = "Quit MultiMarkdown Composer"; ObjectID = "4sb-4s-VLi";</note>
       </trans-unit>
       <trans-unit id="5QF-Oa-p0T.title">
@@ -117,12 +117,12 @@
       </trans-unit>
       <trans-unit id="BOF-NM-1cW.title">
         <source>Preferences…</source>
-        <target>Preferences…</target>
+        <target>Preferenze…</target>
         <note>Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW";</note>
       </trans-unit>
       <trans-unit id="Bw7-FT-i3A.title">
         <source>Save As…</source>
-        <target>Save As…</target>
+        <target>Salva Come…</target>
         <note>Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A";</note>
       </trans-unit>
       <trans-unit id="CUQ-pB-7ke.title">
@@ -132,12 +132,12 @@
       </trans-unit>
       <trans-unit id="DVo-aG-piG.title">
         <source>Close</source>
-        <target>Close</target>
+        <target>Chiudi</target>
         <note>Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG";</note>
       </trans-unit>
       <trans-unit id="DfR-57-0nq.title">
         <source>Paste as Table</source>
-        <target>Paste as Table</target>
+        <target>Incolla come Tabella</target>
         <note>Class = "NSMenuItem"; title = "Paste as Table"; ObjectID = "DfR-57-0nq";</note>
       </trans-unit>
       <trans-unit id="Dv1-io-Yv7.title">
@@ -147,12 +147,12 @@
       </trans-unit>
       <trans-unit id="F2S-fz-NVQ.title">
         <source>Help</source>
-        <target>Help</target>
+        <target>Aiuto</target>
         <note>Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ";</note>
       </trans-unit>
       <trans-unit id="FKE-Sm-Kum.title">
         <source>MultiMarkdown Composer Help</source>
-        <target>MultiMarkdown Composer Help</target>
+        <target>MultiMarkdown Composer Aiuto</target>
         <note>Class = "NSMenuItem"; title = "MultiMarkdown Composer Help"; ObjectID = "FKE-Sm-Kum";</note>
       </trans-unit>
       <trans-unit id="FeM-D8-WVr.title">
@@ -187,7 +187,7 @@
       </trans-unit>
       <trans-unit id="H8h-7b-M4v.title">
         <source>View</source>
-        <target>View</target>
+        <target>Vista</target>
         <note>Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v";</note>
       </trans-unit>
       <trans-unit id="HFQ-gK-NFA.title">
@@ -202,12 +202,12 @@
       </trans-unit>
       <trans-unit id="HyV-fh-RgO.title">
         <source>View</source>
-        <target>View</target>
+        <target>Vista</target>
         <note>Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO";</note>
       </trans-unit>
       <trans-unit id="IAo-SY-fd9.title">
         <source>Open…</source>
-        <target>Open…</target>
+        <target>Apri…</target>
         <note>Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9";</note>
       </trans-unit>
       <trans-unit id="Ik8-se-JPW.title">
@@ -232,7 +232,7 @@
       </trans-unit>
       <trans-unit id="Kd2-mp-pUS.title">
         <source>Show All</source>
-        <target>Show All</target>
+        <target>Mostra Tutto</target>
         <note>Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS";</note>
       </trans-unit>
       <trans-unit id="LE2-aR-0XJ.title">
@@ -282,12 +282,12 @@
       </trans-unit>
       <trans-unit id="Olw-nP-bQN.title">
         <source>Hide MultiMarkdown Composer</source>
-        <target>Hide MultiMarkdown Composer</target>
+        <target>Nascondi MultiMarkdown Composer</target>
         <note>Class = "NSMenuItem"; title = "Hide MultiMarkdown Composer"; ObjectID = "Olw-nP-bQN";</note>
       </trans-unit>
       <trans-unit id="OwM-mh-QMV.title">
         <source>Find Previous</source>
-        <target>Find Previous</target>
+        <target>Trova Precedente</target>
         <note>Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV";</note>
       </trans-unit>
       <trans-unit id="Oyz-dy-DGm.title">
@@ -317,12 +317,12 @@
       </trans-unit>
       <trans-unit id="REY-bw-Ca2.title">
         <source>Copy As</source>
-        <target>Copy As</target>
+        <target>Copia Come</target>
         <note>Class = "NSMenuItem"; title = "Copy As"; ObjectID = "REY-bw-Ca2";</note>
       </trans-unit>
       <trans-unit id="S0p-oC-mLd.title">
         <source>Jump to Selection</source>
-        <target>Jump to Selection</target>
+        <target>Vai alla Selezione</target>
         <note>Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd";</note>
       </trans-unit>
       <trans-unit id="SQ9-DK-IAV.title">
@@ -347,7 +347,7 @@
       </trans-unit>
       <trans-unit id="Td7-aD-5lo.title">
         <source>Window</source>
-        <target>Window</target>
+        <target>Finestra</target>
         <note>Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo";</note>
       </trans-unit>
       <trans-unit id="UEZ-Bs-lqG.title">
@@ -371,7 +371,7 @@
       </trans-unit>
       <trans-unit id="Was-JA-tGl.title">
         <source>New</source>
-        <target>New</target>
+        <target>Nuovo</target>
         <note>Class = "NSMenuItem"; title = "New"; ObjectID = "Was-JA-tGl";</note>
       </trans-unit>
       <trans-unit id="WtC-lX-64y.title">
@@ -441,12 +441,12 @@
       </trans-unit>
       <trans-unit id="aTl-1u-JFS.title">
         <source>Print…</source>
-        <target>Print…</target>
+        <target>Stampa…</target>
         <note>Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS";</note>
       </trans-unit>
       <trans-unit id="aUF-d1-5bR.title">
         <source>Window</source>
-        <target>Window</target>
+        <target>Finestra</target>
         <note>Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR";</note>
       </trans-unit>
       <trans-unit id="ajC-L6-mgS.title">
@@ -466,7 +466,7 @@
       </trans-unit>
       <trans-unit id="bRV-rt-wI7.title">
         <source>Copy As</source>
-        <target>Copy As</target>
+        <target>Copia Come</target>
         <note>Class = "NSMenu"; title = "Copy As"; ObjectID = "bRV-rt-wI7";</note>
       </trans-unit>
       <trans-unit id="bWV-2m-JBz.title">
