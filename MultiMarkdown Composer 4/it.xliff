@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="0e1-16-LUV.title">
         <source>Select All</source>
-        <target>Select All</target>
+        <target>Seleziona Tutto</target>
         <note>Class = "NSMenuItem"; title = "Select All"; ObjectID = "0e1-16-LUV";</note>
       </trans-unit>
       <trans-unit id="1Xt-HY-uBw.title">
