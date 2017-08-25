@@ -536,7 +536,7 @@
       </trans-unit>
       <trans-unit id="dyH-aD-55v.title">
         <source>Italic</source>
-        <target>Italic</target>
+        <target>Corsivo</target>
         <note>Class = "NSMenuItem"; title = "Italic"; ObjectID = "dyH-aD-55v";</note>
       </trans-unit>
       <trans-unit id="eLH-5x-VSG.title">
@@ -551,7 +551,7 @@
       </trans-unit>
       <trans-unit id="eyD-bq-B2n.title">
         <source>Bold</source>
-        <target>Bold</target>
+        <target>Grassetto</target>
         <note>Class = "NSMenuItem"; title = "Bold"; ObjectID = "eyD-bq-B2n";</note>
       </trans-unit>
       <trans-unit id="f79-e4-fts.title">
@@ -566,7 +566,7 @@
       </trans-unit>
       <trans-unit id="fkv-78-5x3.title">
         <source>Decrease Selection</source>
-        <target>Decrease Selection</target>
+        <target>Riduci selezione</target>
         <note>Class = "NSMenuItem"; title = "Decrease Selection"; ObjectID = "fkv-78-5x3";</note>
       </trans-unit>
       <trans-unit id="fp0-jH-mbm.title">
@@ -576,12 +576,12 @@
       </trans-unit>
       <trans-unit id="gVA-U4-sdL.title">
         <source>Paste</source>
-        <target>Paste</target>
+        <target>Incolla</target>
         <note>Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL";</note>
       </trans-unit>
       <trans-unit id="geu-Nz-yGL.title">
         <source>Shift Left</source>
-        <target>Shift Left</target>
+        <target>Sinistra</target>
         <note>Class = "NSMenuItem"; title = "Shift Left"; ObjectID = "geu-Nz-yGL";</note>
       </trans-unit>
       <trans-unit id="hQb-2v-fYv.title">
@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit id="hz9-B4-Xy5.title">
         <source>Services</source>
-        <target>Services</target>
+        <target>Servizi</target>
         <note>Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5";</note>
       </trans-unit>
       <trans-unit id="iNB-Y2-MDS.title">
@@ -611,12 +611,12 @@
       </trans-unit>
       <trans-unit id="jwI-rs-ESd.title">
         <source>Selection</source>
-        <target>Selection</target>
+        <target>Seleziona</target>
         <note>Class = "NSMenuItem"; title = "Selection"; ObjectID = "jwI-rs-ESd";</note>
       </trans-unit>
       <trans-unit id="jxT-CU-nIS.title">
         <source>Format</source>
-        <target>Format</target>
+        <target>Formato</target>
         <note>Class = "NSMenuItem"; title = "Format"; ObjectID = "jxT-CU-nIS";</note>
       </trans-unit>
       <trans-unit id="kZR-dP-QWd.title">
@@ -626,7 +626,7 @@
       </trans-unit>
       <trans-unit id="lJP-Fu-bdY.title">
         <source>Zoom</source>
-        <target>Zoom</target>
+        <target>Ridimensiona</target>
         <note>Class = "NSMenuItem"; title = "Zoom"; ObjectID = "lJP-Fu-bdY";</note>
       </trans-unit>
       <trans-unit id="lMT-Aj-boU.title">
@@ -636,17 +636,17 @@
       </trans-unit>
       <trans-unit id="mGu-D1-GPG.title">
         <source>Enter Full Screen</source>
-        <target>Enter Full Screen</target>
+        <target>Modalità a tutto schermo</target>
         <note>Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "mGu-D1-GPG";</note>
       </trans-unit>
       <trans-unit id="mK6-2p-4JG.title">
         <source>Check Grammar With Spelling</source>
-        <target>Check Grammar With Spelling</target>
+        <target>Controlla grammatica e ortografia</target>
         <note>Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "mK6-2p-4JG";</note>
       </trans-unit>
       <trans-unit id="n4f-MA-b38.title">
         <source>Paste As</source>
-        <target>Paste As</target>
+        <target>Incolla come</target>
         <note>Class = "NSMenu"; title = "Paste As"; ObjectID = "n4f-MA-b38";</note>
       </trans-unit>
       <trans-unit id="nvh-aQ-ak7.title">
@@ -666,32 +666,32 @@
       </trans-unit>
       <trans-unit id="oas-Oc-fiZ.title">
         <source>Open Recent</source>
-        <target>Open Recent</target>
+        <target>Apri recente</target>
         <note>Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ";</note>
       </trans-unit>
       <trans-unit id="pIc-nG-Iaf.title">
         <source>Insert CriticMarkup Comment</source>
-        <target>Insert CriticMarkup Comment</target>
+        <target>Inserisci commento con CriticMarkup</target>
         <note>Class = "NSMenuItem"; title = "Insert CriticMarkup Comment"; ObjectID = "pIc-nG-Iaf";</note>
       </trans-unit>
       <trans-unit id="pa3-QI-u2k.title">
         <source>Delete</source>
-        <target>Delete</target>
+        <target>Elimina</target>
         <note>Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k";</note>
       </trans-unit>
       <trans-unit id="pxx-59-PXV.title">
         <source>Save…</source>
-        <target>Save…</target>
+        <target>Salva…</target>
         <note>Class = "NSMenuItem"; title = "Save…"; ObjectID = "pxx-59-PXV";</note>
       </trans-unit>
       <trans-unit id="q09-fT-Sye.title">
         <source>Find Next</source>
-        <target>Find Next</target>
+        <target>Cerca successivo</target>
         <note>Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye";</note>
       </trans-unit>
       <trans-unit id="qIS-W8-SiK.title">
         <source>Page Setup…</source>
-        <target>Page Setup…</target>
+        <target>Formato di stampa…</target>
         <note>Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "qIS-W8-SiK";</note>
       </trans-unit>
       <trans-unit id="rAq-Kd-7h5.title">
@@ -701,7 +701,7 @@
       </trans-unit>
       <trans-unit id="rbD-Rh-wIN.title">
         <source>Check Spelling While Typing</source>
-        <target>Check Spelling While Typing</target>
+        <target>Controlla ortografia mentre scrivo</target>
         <note>Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN";</note>
       </trans-unit>
       <trans-unit id="rgM-f4-ycn.title">
@@ -711,7 +711,7 @@
       </trans-unit>
       <trans-unit id="rgP-6r-uDJ.title">
         <source>Insert Table of Contents</source>
-        <target>Insert Table of Contents</target>
+        <target>Inserisci TOC</target>
         <note>Class = "NSMenuItem"; title = "Insert Table of Contents"; ObjectID = "rgP-6r-uDJ";</note>
       </trans-unit>
       <trans-unit id="s1a-Vk-pTq.title">
@@ -731,7 +731,7 @@
       </trans-unit>
       <trans-unit id="tXI-mr-wws.title">
         <source>Open Recent</source>
-        <target>Open Recent</target>
+        <target>Apri recente</target>
         <note>Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws";</note>
       </trans-unit>
       <trans-unit id="tzm-a8-wEG.title">
@@ -751,7 +751,7 @@
       </trans-unit>
       <trans-unit id="uRl-iY-unG.title">
         <source>Cut</source>
-        <target>Cut</target>
+        <target>Taglia</target>
         <note>Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG";</note>
       </trans-unit>
       <trans-unit id="uhp-kb-5eT.title">
@@ -766,7 +766,7 @@
       </trans-unit>
       <trans-unit id="vCc-FC-b1W.title">
         <source>Show Invisible Characters</source>
-        <target>Show Invisible Characters</target>
+        <target>Mostra caratteri invisibili</target>
         <note>Class = "NSMenuItem"; title = "Show Invisible Characters"; ObjectID = "vCc-FC-b1W";</note>
       </trans-unit>
       <trans-unit id="vNY-rz-j42.title">
@@ -776,17 +776,17 @@
       </trans-unit>
       <trans-unit id="vmV-6d-7jI.title">
         <source>Make Upper Case</source>
-        <target>Make Upper Case</target>
+        <target>Tutto maiuscolo</target>
         <note>Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI";</note>
       </trans-unit>
       <trans-unit id="wpr-3q-Mcd.title">
         <source>Help</source>
-        <target>Help</target>
+        <target>Aiuto</target>
         <note>Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd";</note>
       </trans-unit>
       <trans-unit id="x3v-GG-iWU.title">
         <source>Copy</source>
-        <target>Copy</target>
+        <target>Copia</target>
         <note>Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU";</note>
       </trans-unit>
       <trans-unit id="xCh-T2-s5h.title">
@@ -796,7 +796,7 @@
       </trans-unit>
       <trans-unit id="xrE-MZ-jX0.title">
         <source>Speech</source>
-        <target>Speech</target>
+        <target>Voce</target>
         <note>Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0";</note>
       </trans-unit>
       <trans-unit id="ybx-EL-7LF.title">
@@ -811,7 +811,7 @@
       </trans-unit>
       <trans-unit id="z6F-FW-3nz.title">
         <source>Show Substitutions</source>
-        <target>Show Substitutions</target>
+        <target>Mostra sostituzioni</target>
         <note>Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz";</note>
       </trans-unit>
       <trans-unit id="zcN-VX-Koq.title">
@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="0ig-Id-h4S.title">
         <source>8 spaces</source>
-        <target>8 spaces</target>
+        <target>8 spazi</target>
         <note>Class = "NSMenuItem"; title = "8 spaces"; ObjectID = "0ig-Id-h4S";</note>
       </trans-unit>
       <trans-unit id="0rP-vw-fZj.title">
@@ -870,7 +870,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="3gh-s1-pKb.title">
         <source>Nederlands</source>
-        <target>Nederlands</target>
+        <target>Olandese</target>
         <note>Class = "NSMenuItem"; title = "Nederlands"; ObjectID = "3gh-s1-pKb";</note>
       </trans-unit>
       <trans-unit id="4VL-MI-7cC.title">
@@ -905,7 +905,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="7g1-Ab-8np.title">
         <source>More CSS</source>
-        <target>More CSS</target>
+        <target>Altri CSS</target>
         <note>Class = "NSButtonCell"; title = "More CSS"; ObjectID = "7g1-Ab-8np";</note>
       </trans-unit>
       <trans-unit id="8Y0-CT-Dvj.title">
