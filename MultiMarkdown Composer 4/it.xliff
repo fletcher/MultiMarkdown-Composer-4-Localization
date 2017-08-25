@@ -297,7 +297,7 @@
       </trans-unit>
       <trans-unit id="PUK-ML-Dg6.title">
         <source>Move Selected Text</source>
-        <target>Move Selected Text</target>
+        <target>Muovi testo selezionato</target>
         <note>Class = "NSMenuItem"; title = "Move Selected Text"; ObjectID = "PUK-ML-Dg6";</note>
       </trans-unit>
       <trans-unit id="Pc3-b2-vfW.title">
@@ -342,7 +342,7 @@
       </trans-unit>
       <trans-unit id="TLf-VF-czb.title">
         <source>Shift Up</source>
-        <target>Shift Up</target>
+        <target>Su</target>
         <note>Class = "NSMenuItem"; title = "Shift Up"; ObjectID = "TLf-VF-czb";</note>
       </trans-unit>
       <trans-unit id="Td7-aD-5lo.title">
@@ -366,7 +366,7 @@
       </trans-unit>
       <trans-unit id="W48-6f-4Dl.title">
         <source>Edit</source>
-        <target>Edit</target>
+        <target>Modifica</target>
         <note>Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl";</note>
       </trans-unit>
       <trans-unit id="Was-JA-tGl.title">
@@ -381,12 +381,12 @@
       </trans-unit>
       <trans-unit id="WxV-5h-K6E.title">
         <source>Shift Down</source>
-        <target>Shift Down</target>
+        <target>Giù</target>
         <note>Class = "NSMenuItem"; title = "Shift Down"; ObjectID = "WxV-5h-K6E";</note>
       </trans-unit>
       <trans-unit id="Xz5-n4-O0W.title">
         <source>Find…</source>
-        <target>Find…</target>
+        <target>Cerca…</target>
         <note>Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W";</note>
       </trans-unit>
       <trans-unit id="YEy-JH-Tfz.title">
@@ -396,12 +396,12 @@
       </trans-unit>
       <trans-unit id="YFk-di-fAF.title">
         <source>Highlight Selection for CriticMarkup</source>
-        <target>Highlight Selection for CriticMarkup</target>
+        <target>Evidenzia selezione con CriticMarkup</target>
         <note>Class = "NSMenuItem"; title = "Highlight Selection for CriticMarkup"; ObjectID = "YFk-di-fAF";</note>
       </trans-unit>
       <trans-unit id="Ynk-f8-cLZ.title">
         <source>Start Speaking</source>
-        <target>Start Speaking</target>
+        <target>Avvia riproduzione</target>
         <note>Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ";</note>
       </trans-unit>
       <trans-unit id="YqL-9h-FSs.title">
@@ -451,7 +451,7 @@
       </trans-unit>
       <trans-unit id="ajC-L6-mgS.title">
         <source>Move Selected Text</source>
-        <target>Move Selected Text</target>
+        <target>Muovi testo selezionato</target>
         <note>Class = "NSMenu"; title = "Move Selected Text"; ObjectID = "ajC-L6-mgS";</note>
       </trans-unit>
       <trans-unit id="bC9-Xs-vwZ.title">
@@ -466,7 +466,7 @@
       </trans-unit>
       <trans-unit id="bRV-rt-wI7.title">
         <source>Copy As</source>
-        <target>Copia Come</target>
+        <target>Copia come</target>
         <note>Class = "NSMenu"; title = "Copy As"; ObjectID = "bRV-rt-wI7";</note>
       </trans-unit>
       <trans-unit id="bWV-2m-JBz.title">
@@ -481,7 +481,7 @@
       </trans-unit>
       <trans-unit id="bjf-Cb-FGx.title">
         <source>Show Line Numbers</source>
-        <target>Show Line Numbers</target>
+        <target>Mostra numeri di riga</target>
         <note>Class = "NSMenuItem"; title = "Show Line Numbers"; ObjectID = "bjf-Cb-FGx";</note>
       </trans-unit>
       <trans-unit id="buJ-ug-pKt.title">
@@ -496,7 +496,7 @@
       </trans-unit>
       <trans-unit id="c8a-y6-VQd.title">
         <source>Transformations</source>
-        <target>Transformations</target>
+        <target>Trasformazioni</target>
         <note>Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd";</note>
       </trans-unit>
       <trans-unit id="cOa-ma-HTc.title">
