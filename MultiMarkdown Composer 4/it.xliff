@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="0e1-16-LUV.title">
         <source>Select All</source>
-        <target>Seleziona Tutto</target>
+        <target>Seleziona tutto</target>
         <note>Class = "NSMenuItem"; title = "Select All"; ObjectID = "0e1-16-LUV";</note>
       </trans-unit>
       <trans-unit id="1Xt-HY-uBw.title">
@@ -22,17 +22,17 @@
       </trans-unit>
       <trans-unit id="1b7-l0-nxx.title">
         <source>Find</source>
-        <target>Find</target>
+        <target>Cerca</target>
         <note>Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx";</note>
       </trans-unit>
       <trans-unit id="2oI-Rn-ZJC.title">
         <source>Transformations</source>
-        <target>Transformations</target>
+        <target>Transformazioni</target>
         <note>Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC";</note>
       </trans-unit>
       <trans-unit id="3IN-sU-3Bg.title">
         <source>Spelling</source>
-        <target>Spelling</target>
+        <target>Ortografia</target>
         <note>Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg";</note>
       </trans-unit>
       <trans-unit id="3Xd-tL-mdg.title">
@@ -42,7 +42,7 @@
       </trans-unit>
       <trans-unit id="3rS-ZA-NoH.title">
         <source>Speech</source>
-        <target>Speech</target>
+        <target>Voce</target>
         <note>Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH";</note>
       </trans-unit>
       <trans-unit id="4DO-Pm-Jfh.title">
@@ -52,12 +52,12 @@
       </trans-unit>
       <trans-unit id="4EN-yA-p0u.title">
         <source>Find</source>
-        <target>Find</target>
+        <target>Cerca</target>
         <note>Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u";</note>
       </trans-unit>
       <trans-unit id="4Gy-eG-MLo.title">
         <source>Paste As</source>
-        <target>Incolla Come</target>
+        <target>Incolla come</target>
         <note>Class = "NSMenuItem"; title = "Paste As"; ObjectID = "4Gy-eG-MLo";</note>
       </trans-unit>
       <trans-unit id="4LY-fO-6ew.title">
@@ -67,17 +67,17 @@
       </trans-unit>
       <trans-unit id="4sb-4s-VLi.title">
         <source>Quit MultiMarkdown Composer</source>
-        <target>Chiudi MultiMarkdown Composer</target>
+        <target>Esci da MultiMarkdown Composer</target>
         <note>Class = "NSMenuItem"; title = "Quit MultiMarkdown Composer"; ObjectID = "4sb-4s-VLi";</note>
       </trans-unit>
       <trans-unit id="5QF-Oa-p0T.title">
         <source>Edit</source>
-        <target>Edit</target>
+        <target>Modifica</target>
         <note>Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T";</note>
       </trans-unit>
       <trans-unit id="5kV-Vb-QxS.title">
         <source>About MultiMarkdown Composer</source>
-        <target>About MultiMarkdown Composer</target>
+        <target>Informazioni su MultiMarkdown Composer</target>
         <note>Class = "NSMenuItem"; title = "About MultiMarkdown Composer"; ObjectID = "5kV-Vb-QxS";</note>
       </trans-unit>
       <trans-unit id="5og-jq-2tI.title">
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="9ic-FL-obx.title">
         <source>Substitutions</source>
-        <target>Substitutions</target>
+        <target>Sostituzioni</target>
         <note>Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx";</note>
       </trans-unit>
       <trans-unit id="9yt-4B-nSM.title">
@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit id="78Y-hA-62v.title">
         <source>Correct Spelling Automatically</source>
-        <target>Correct Spelling Automatically</target>
+        <target>Correggi ortografia automaticamente</target>
         <note>Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v";</note>
       </trans-unit>
       <trans-unit id="AYu-sK-qS6.title">
@@ -122,7 +122,7 @@
       </trans-unit>
       <trans-unit id="Bw7-FT-i3A.title">
         <source>Save As…</source>
-        <target>Salva Come…</target>
+        <target>Salva come…</target>
         <note>Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A";</note>
       </trans-unit>
       <trans-unit id="CUQ-pB-7ke.title">
@@ -142,7 +142,7 @@
       </trans-unit>
       <trans-unit id="Dv1-io-Yv7.title">
         <source>Spelling and Grammar</source>
-        <target>Spelling and Grammar</target>
+        <target>Ortografia e grammatica</target>
         <note>Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7";</note>
       </trans-unit>
       <trans-unit id="F2S-fz-NVQ.title">
@@ -152,12 +152,12 @@
       </trans-unit>
       <trans-unit id="FKE-Sm-Kum.title">
         <source>MultiMarkdown Composer Help</source>
-        <target>MultiMarkdown Composer Aiuto</target>
+        <target>Aiuto MultiMarkdown Composer</target>
         <note>Class = "NSMenuItem"; title = "MultiMarkdown Composer Help"; ObjectID = "FKE-Sm-Kum";</note>
       </trans-unit>
       <trans-unit id="FeM-D8-WVr.title">
         <source>Substitutions</source>
-        <target>Substitutions</target>
+        <target>Sostituzioni</target>
         <note>Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr";</note>
       </trans-unit>
       <trans-unit id="FvI-uu-IOU.title">
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="GEO-Iw-cKr.title">
         <source>Format</source>
-        <target>Format</target>
+        <target>Formato</target>
         <note>Class = "NSMenu"; title = "Format"; ObjectID = "GEO-Iw-cKr";</note>
       </trans-unit>
       <trans-unit id="GcV-yp-6pY.title">
@@ -197,7 +197,7 @@
       </trans-unit>
       <trans-unit id="HFo-cy-zxI.title">
         <source>Show Spelling and Grammar</source>
-        <target>Show Spelling and Grammar</target>
+        <target>Mostra ortografia e grammatica</target>
         <note>Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI";</note>
       </trans-unit>
       <trans-unit id="HyV-fh-RgO.title">
@@ -222,7 +222,7 @@
       </trans-unit>
       <trans-unit id="JDf-Lj-6P2.title">
         <source>Zoom</source>
-        <target>Zoom</target>
+        <target>Ridimensiona</target>
         <note>Class = "NSMenu"; title = "Zoom"; ObjectID = "JDf-Lj-6P2";</note>
       </trans-unit>
       <trans-unit id="KaW-ft-85H.title">
@@ -232,17 +232,17 @@
       </trans-unit>
       <trans-unit id="Kd2-mp-pUS.title">
         <source>Show All</source>
-        <target>Mostra Tutto</target>
+        <target>Mostra tutto</target>
         <note>Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS";</note>
       </trans-unit>
       <trans-unit id="LE2-aR-0XJ.title">
         <source>Bring All to Front</source>
-        <target>Bring All to Front</target>
+        <target>Porta tutto in primo piano</target>
         <note>Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ";</note>
       </trans-unit>
       <trans-unit id="LdR-np-qEN.title">
         <source>Selection</source>
-        <target>Selection</target>
+        <target>Seleziona</target>
         <note>Class = "NSMenu"; title = "Selection"; ObjectID = "LdR-np-qEN";</note>
       </trans-unit>
       <trans-unit id="Lhr-4s-L6V.title">
@@ -252,7 +252,7 @@
       </trans-unit>
       <trans-unit id="Lid-NL-Ier.title">
         <source>Show Paragraph Numbers</source>
-        <target>Show Paragraph Numbers</target>
+        <target>Mostra numeri di paragrafo</target>
         <note>Class = "NSMenuItem"; title = "Show Paragraph Numbers"; ObjectID = "Lid-NL-Ier";</note>
       </trans-unit>
       <trans-unit id="Mea-Mi-C1i.title">
@@ -267,12 +267,12 @@
       </trans-unit>
       <trans-unit id="NMo-om-nkz.title">
         <source>Services</source>
-        <target>Services</target>
+        <target>Servizi</target>
         <note>Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz";</note>
       </trans-unit>
       <trans-unit id="OY7-WF-poV.title">
         <source>Minimize</source>
-        <target>Minimize</target>
+        <target>Contrai</target>
         <note>Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV";</note>
       </trans-unit>
       <trans-unit id="Og8-qh-TkI.title">
@@ -287,12 +287,12 @@
       </trans-unit>
       <trans-unit id="OwM-mh-QMV.title">
         <source>Find Previous</source>
-        <target>Trova Precedente</target>
+        <target>Cerca precedente</target>
         <note>Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV";</note>
       </trans-unit>
       <trans-unit id="Oyz-dy-DGm.title">
         <source>Stop Speaking</source>
-        <target>Stop Speaking</target>
+        <target>Interrompi riproduzione</target>
         <note>Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm";</note>
       </trans-unit>
       <trans-unit id="PUK-ML-Dg6.title">
@@ -312,17 +312,17 @@
       </trans-unit>
       <trans-unit id="R4o-n2-Eq4.title">
         <source>Zoom</source>
-        <target>Zoom</target>
+        <target>Ridimensiona</target>
         <note>Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4";</note>
       </trans-unit>
       <trans-unit id="REY-bw-Ca2.title">
         <source>Copy As</source>
-        <target>Copia Come</target>
+        <target>Copia come</target>
         <note>Class = "NSMenuItem"; title = "Copy As"; ObjectID = "REY-bw-Ca2";</note>
       </trans-unit>
       <trans-unit id="S0p-oC-mLd.title">
         <source>Jump to Selection</source>
-        <target>Vai alla Selezione</target>
+        <target>Vai alla selezione</target>
         <note>Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd";</note>
       </trans-unit>
       <trans-unit id="SQ9-DK-IAV.title">
@@ -352,12 +352,12 @@
       </trans-unit>
       <trans-unit id="UEZ-Bs-lqG.title">
         <source>Capitalize</source>
-        <target>Capitalize</target>
+        <target>Iniziali maiuscole</target>
         <note>Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG";</note>
       </trans-unit>
       <trans-unit id="Vdr-fp-XzO.title">
         <source>Hide Others</source>
-        <target>Hide Others</target>
+        <target>Nascondi altre</target>
         <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
       </trans-unit>
       <trans-unit id="W7l-WU-jpO.title">
