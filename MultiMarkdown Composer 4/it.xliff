@@ -217,7 +217,7 @@
       </trans-unit>
       <trans-unit id="J1I-Fz-3P1.title">
         <source>HTML Entities in Selected Text</source>
-        <target>HTML Entities in Selected Text</target>
+        <target>Tag HTML nella selezione</target>
         <note>Class = "NSMenuItem"; title = "HTML Entities in Selected Text"; ObjectID = "J1I-Fz-3P1";</note>
       </trans-unit>
       <trans-unit id="JDf-Lj-6P2.title">
@@ -247,7 +247,7 @@
       </trans-unit>
       <trans-unit id="Lhr-4s-L6V.title">
         <source>Paste as Bulleted List</source>
-        <target>Paste as Bulleted List</target>
+        <target>Incolla come Elenco puntato</target>
         <note>Class = "NSMenuItem"; title = "Paste as Bulleted List"; ObjectID = "Lhr-4s-L6V";</note>
       </trans-unit>
       <trans-unit id="Lid-NL-Ier.title">
@@ -257,12 +257,12 @@
       </trans-unit>
       <trans-unit id="Mea-Mi-C1i.title">
         <source>Convert to Regular Text</source>
-        <target>Convert to Regular Text</target>
+        <target>Converti in testo semplice</target>
         <note>Class = "NSMenuItem"; title = "Convert to Regular Text"; ObjectID = "Mea-Mi-C1i";</note>
       </trans-unit>
       <trans-unit id="NEK-ee-KsI.title">
         <source>Report Problem</source>
-        <target>Report Problem</target>
+        <target>Segnala un problema</target>
         <note>Class = "NSMenuItem"; title = "Report Problem"; ObjectID = "NEK-ee-KsI";</note>
       </trans-unit>
       <trans-unit id="NMo-om-nkz.title">
@@ -277,7 +277,7 @@
       </trans-unit>
       <trans-unit id="Og8-qh-TkI.title">
         <source>Convert Selection To</source>
-        <target>Convert Selection To</target>
+        <target>Converti selezione in</target>
         <note>Class = "NSMenu"; title = "Convert Selection To"; ObjectID = "Og8-qh-TkI";</note>
       </trans-unit>
       <trans-unit id="Olw-nP-bQN.title">
@@ -307,7 +307,7 @@
       </trans-unit>
       <trans-unit id="QCz-Da-nIg.title">
         <source>Selected List(s)</source>
-        <target>Selected List(s)</target>
+        <target>Elenco selezionato</target>
         <note>Class = "NSMenuItem"; title = "Selected List(s)"; ObjectID = "QCz-Da-nIg";</note>
       </trans-unit>
       <trans-unit id="R4o-n2-Eq4.title">
@@ -327,17 +327,17 @@
       </trans-unit>
       <trans-unit id="SQ9-DK-IAV.title">
         <source>Zoom Editor In</source>
-        <target>Zoom Editor In</target>
+        <target>Ingrandisci Editor</target>
         <note>Class = "NSMenuItem"; title = "Zoom Editor In"; ObjectID = "SQ9-DK-IAV";</note>
       </trans-unit>
       <trans-unit id="T8l-bh-E4a.title">
         <source>Toggle List Type</source>
-        <target>Toggle List Type</target>
+        <target>Scambia tipo di elenco</target>
         <note>Class = "NSMenuItem"; title = "Toggle List Type"; ObjectID = "T8l-bh-E4a";</note>
       </trans-unit>
       <trans-unit id="TGJ-08-xoV.title">
         <source>Toggle Preview</source>
-        <target>Toggle Preview</target>
+        <target>Mostra/Nascondi Anteprima</target>
         <note>Class = "NSMenuItem"; title = "Toggle Preview"; ObjectID = "TGJ-08-xoV";</note>
       </trans-unit>
       <trans-unit id="TLf-VF-czb.title">
@@ -361,7 +361,7 @@
         <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
       </trans-unit>
       <trans-unit id="W7l-WU-jpO.title">
-        <source>Learn about the Pro Upgrade</source>
+        <source>Informazioni sulla versione Pro</source>
         <note>Class = "NSMenuItem"; title = "Learn about the Pro Upgrade"; ObjectID = "W7l-WU-jpO";</note>
       </trans-unit>
       <trans-unit id="W48-6f-4Dl.title">
@@ -391,7 +391,7 @@
       </trans-unit>
       <trans-unit id="YEy-JH-Tfz.title">
         <source>Find and Replace…</source>
-        <target>Find and Replace…</target>
+        <target>Cerca e sostituisci…</target>
         <note>Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz";</note>
       </trans-unit>
       <trans-unit id="YFk-di-fAF.title">
@@ -411,32 +411,32 @@
       </trans-unit>
       <trans-unit id="ZDo-jE-PaQ.title">
         <source>Zoom Editor Out</source>
-        <target>Zoom Editor Out</target>
+        <target>Riduci Editor</target>
         <note>Class = "NSMenuItem"; title = "Zoom Editor Out"; ObjectID = "ZDo-jE-PaQ";</note>
       </trans-unit>
       <trans-unit id="ZNk-Md-tMQ.title">
         <source>Apply Title Case to Selection</source>
-        <target>Apply Title Case to Selection</target>
+        <target>Modalità Titolo alla selezione</target>
         <note>Class = "NSMenuItem"; title = "Apply Title Case to Selection"; ObjectID = "ZNk-Md-tMQ";</note>
       </trans-unit>
       <trans-unit id="Zd3-w4-hAu.title">
         <source>Convert to Enumerated List</source>
-        <target>Convert to Enumerated List</target>
+        <target>Converti in Elenco numerato</target>
         <note>Class = "NSMenuItem"; title = "Convert to Enumerated List"; ObjectID = "Zd3-w4-hAu";</note>
       </trans-unit>
       <trans-unit id="Zem-Pu-Lzh.title">
         <source>Preview with Marked</source>
-        <target>Preview with Marked</target>
+        <target>Anteprima con Marked</target>
         <note>Class = "NSMenuItem"; title = "Preview with Marked"; ObjectID = "Zem-Pu-Lzh";</note>
       </trans-unit>
       <trans-unit id="Zzm-4y-gB9.title">
         <source>Print Preview…</source>
-        <target>Print Preview…</target>
+        <target>Stampa Anteprima…</target>
         <note>Class = "NSMenuItem"; title = "Print Preview…"; ObjectID = "Zzm-4y-gB9";</note>
       </trans-unit>
       <trans-unit id="aTc-nR-kEz.title">
         <source>Paste as Enumerated List</source>
-        <target>Paste as Enumerated List</target>
+        <target>Incolla come  Elenco numerato</target>
         <note>Class = "NSMenuItem"; title = "Paste as Enumerated List"; ObjectID = "aTc-nR-kEz";</note>
       </trans-unit>
       <trans-unit id="aTl-1u-JFS.title">
@@ -456,7 +456,7 @@
       </trans-unit>
       <trans-unit id="bC9-Xs-vwZ.title">
         <source>Increase Selection</source>
-        <target>Increase Selection</target>
+        <target>Diminuisci selezione</target>
         <note>Class = "NSMenuItem"; title = "Increase Selection"; ObjectID = "bC9-Xs-vwZ";</note>
       </trans-unit>
       <trans-unit id="bIK-rb-0jl.title">
@@ -471,7 +471,7 @@
       </trans-unit>
       <trans-unit id="bWV-2m-JBz.title">
         <source>Convert to Blockquote</source>
-        <target>Convert to Blockquote</target>
+        <target>Converti in citazione</target>
         <note>Class = "NSMenuItem"; title = "Convert to Blockquote"; ObjectID = "bWV-2m-JBz";</note>
       </trans-unit>
       <trans-unit id="bib-Uj-vzu.title">
@@ -486,12 +486,12 @@
       </trans-unit>
       <trans-unit id="buJ-ug-pKt.title">
         <source>Use Selection for Find</source>
-        <target>Use Selection for Find</target>
+        <target>Usa Cerca con selezione</target>
         <note>Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt";</note>
       </trans-unit>
       <trans-unit id="c5r-X5-SDc.title">
         <source>Zoom Preview Out</source>
-        <target>Zoom Preview Out</target>
+        <target>Riduci Anteprima</target>
         <note>Class = "NSMenuItem"; title = "Zoom Preview Out"; ObjectID = "c5r-X5-SDc";</note>
       </trans-unit>
       <trans-unit id="c8a-y6-VQd.title">
@@ -511,7 +511,7 @@
       </trans-unit>
       <trans-unit id="d9M-CD-aMd.title">
         <source>Make Lower Case</source>
-        <target>Make Lower Case</target>
+        <target>Scrivi in lettere minuscole</target>
         <note>Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd";</note>
       </trans-unit>
       <trans-unit id="dMs-cI-mzQ.title">
@@ -521,17 +521,17 @@
       </trans-unit>
       <trans-unit id="dRJ-4n-Yzg.title">
         <source>Undo</source>
-        <target>Undo</target>
+        <target>Ripristina</target>
         <note>Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg";</note>
       </trans-unit>
       <trans-unit id="dU6-gq-sJb.title">
         <source>Theme</source>
-        <target>Theme</target>
+        <target>Tema</target>
         <note>Class = "NSMenu"; title = "Theme"; ObjectID = "dU6-gq-sJb";</note>
       </trans-unit>
       <trans-unit id="ddc-gl-KTY.title">
         <source>MultiMarkdown Syntax Guide</source>
-        <target>MultiMarkdown Syntax Guide</target>
+        <target>Elenco istruzioni del MultiMarkdown</target>
         <note>Class = "NSMenuItem"; title = "MultiMarkdown Syntax Guide"; ObjectID = "ddc-gl-KTY";</note>
       </trans-unit>
       <trans-unit id="dyH-aD-55v.title">
@@ -556,12 +556,12 @@
       </trans-unit>
       <trans-unit id="f79-e4-fts.title">
         <source>Theme</source>
-        <target>Theme</target>
+        <target>Tema</target>
         <note>Class = "NSMenuItem"; title = "Theme"; ObjectID = "f79-e4-fts";</note>
       </trans-unit>
       <trans-unit id="fgX-Ke-Dw3.title">
         <source>Move to Next Paragraph</source>
-        <target>Move to Next Paragraph</target>
+        <target>Vai alla fine del paragrafo</target>
         <note>Class = "NSMenuItem"; title = "Move to Next Paragraph"; ObjectID = "fgX-Ke-Dw3";</note>
       </trans-unit>
       <trans-unit id="fkv-78-5x3.title">
@@ -571,7 +571,7 @@
       </trans-unit>
       <trans-unit id="fp0-jH-mbm.title">
         <source>Selected Table(s)</source>
-        <target>Selected Table(s)</target>
+        <target>Tabella selezionata</target>
         <note>Class = "NSMenuItem"; title = "Selected Table(s)"; ObjectID = "fp0-jH-mbm";</note>
       </trans-unit>
       <trans-unit id="gVA-U4-sdL.title">
@@ -591,7 +591,7 @@
       </trans-unit>
       <trans-unit id="hz2-CU-CR7.title">
         <source>Check Document Now</source>
-        <target>Check Document Now</target>
+        <target>Controlla il documento adesso</target>
         <note>Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7";</note>
       </trans-unit>
       <trans-unit id="hz9-B4-Xy5.title">
@@ -601,7 +601,7 @@
       </trans-unit>
       <trans-unit id="iNB-Y2-MDS.title">
         <source>Preview CSS</source>
-        <target>Preview CSS</target>
+        <target>Anteprima CSS</target>
         <note>Class = "NSMenu"; title = "Preview CSS"; ObjectID = "iNB-Y2-MDS";</note>
       </trans-unit>
       <trans-unit id="jEH-f6-9Kg.title">
@@ -631,7 +631,7 @@
       </trans-unit>
       <trans-unit id="lMT-Aj-boU.title">
         <source>Go to Editor</source>
-        <target>Go to Editor</target>
+        <target>Vai all'Editor</target>
         <note>Class = "NSMenuItem"; title = "Go to Editor"; ObjectID = "lMT-Aj-boU";</note>
       </trans-unit>
       <trans-unit id="mGu-D1-GPG.title">
@@ -716,12 +716,12 @@
       </trans-unit>
       <trans-unit id="s1a-Vk-pTq.title">
         <source>Convert Selection To</source>
-        <target>Convert Selection To</target>
+        <target>Converti selezione in</target>
         <note>Class = "NSMenuItem"; title = "Convert Selection To"; ObjectID = "s1a-Vk-pTq";</note>
       </trans-unit>
       <trans-unit id="tI7-ks-bJi.title">
         <source>Preview CSS</source>
-        <target>Preview CSS</target>
+        <target>Anteprima CSS</target>
         <note>Class = "NSMenuItem"; title = "Preview CSS"; ObjectID = "tI7-ks-bJi";</note>
       </trans-unit>
       <trans-unit id="tRr-pd-1PS.title">
@@ -736,12 +736,12 @@
       </trans-unit>
       <trans-unit id="tzm-a8-wEG.title">
         <source>Compare to Other File…</source>
-        <target>Compare to Other File…</target>
+        <target>Confronta con un altro documento…</target>
         <note>Class = "NSMenuItem"; title = "Compare to Other File…"; ObjectID = "tzm-a8-wEG";</note>
       </trans-unit>
       <trans-unit id="uEc-c4-BmF.title">
         <source>Convert to Fenced Code Block</source>
-        <target>Convert to Fenced Code Block</target>
+        <target>Converti in Blocco di codice</target>
         <note>Class = "NSMenuItem"; title = "Convert to Fenced Code Block"; ObjectID = "uEc-c4-BmF";</note>
       </trans-unit>
       <trans-unit id="uQy-DD-JDr.title">
@@ -756,12 +756,12 @@
       </trans-unit>
       <trans-unit id="uhp-kb-5eT.title">
         <source>Toggle TOC</source>
-        <target>Toggle TOC</target>
+        <target>Mostra/Nascondi TOC</target>
         <note>Class = "NSMenuItem"; title = "Toggle TOC"; ObjectID = "uhp-kb-5eT";</note>
       </trans-unit>
       <trans-unit id="v2y-bZ-8ZO.title">
         <source>Move to Previous Paragraph</source>
-        <target>Move to Previous Paragraph</target>
+        <target>Vai all'inizio del paragrafo</target>
         <note>Class = "NSMenuItem"; title = "Move to Previous Paragraph"; ObjectID = "v2y-bZ-8ZO";</note>
       </trans-unit>
       <trans-unit id="vCc-FC-b1W.title">
@@ -771,7 +771,7 @@
       </trans-unit>
       <trans-unit id="vNY-rz-j42.title">
         <source>Clear Menu</source>
-        <target>Clear Menu</target>
+        <target>Cancella menu</target>
         <note>Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42";</note>
       </trans-unit>
       <trans-unit id="vmV-6d-7jI.title">
@@ -791,7 +791,7 @@
       </trans-unit>
       <trans-unit id="xCh-T2-s5h.title">
         <source>Typewriter Mode</source>
-        <target>Typewriter Mode</target>
+        <target>Modalità macchina da scrivere</target>
         <note>Class = "NSMenuItem"; title = "Typewriter Mode"; ObjectID = "xCh-T2-s5h";</note>
       </trans-unit>
       <trans-unit id="xrE-MZ-jX0.title">
@@ -801,7 +801,7 @@
       </trans-unit>
       <trans-unit id="ybx-EL-7LF.title">
         <source>Auto Zoom</source>
-        <target>Auto Zoom</target>
+        <target>Ridimensionamento automatico</target>
         <note>Class = "NSMenuItem"; title = "Auto Zoom"; ObjectID = "ybx-EL-7LF";</note>
       </trans-unit>
       <trans-unit id="ynL-oi-zDe.title">
@@ -816,7 +816,7 @@
       </trans-unit>
       <trans-unit id="zcN-VX-Koq.title">
         <source>Toggle References</source>
-        <target>Toggle References</target>
+        <target>Mostra/Nascondi References</target>
         <note>Class = "NSMenuItem"; title = "Toggle References"; ObjectID = "zcN-VX-Koq";</note>
       </trans-unit>
     </body>
