@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="0Pk-wG-ome.title">
         <source>Toggle CriticMarkup</source>
-        <target>Toggle CriticMarkup</target>
+        <target>Mostra/Nascondi CriticMarkup</target>
         <note>Class = "NSMenuItem"; title = "Toggle CriticMarkup"; ObjectID = "0Pk-wG-ome";</note>
       </trans-unit>
       <trans-unit id="0e1-16-LUV.title">
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="2oI-Rn-ZJC.title">
         <source>Transformations</source>
-        <target>Transformazioni</target>
+        <target>Trasformazioni</target>
         <note>Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC";</note>
       </trans-unit>
       <trans-unit id="3IN-sU-3Bg.title">
@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="4DO-Pm-Jfh.title">
         <source>Paste as Table Row(s)</source>
-        <target>Paste as Table Row(s)</target>
+        <target>Incolla come riga di tabella</target>
         <note>Class = "NSMenuItem"; title = "Paste as Table Row(s)"; ObjectID = "4DO-Pm-Jfh";</note>
       </trans-unit>
       <trans-unit id="4EN-yA-p0u.title">
@@ -82,12 +82,12 @@
       </trans-unit>
       <trans-unit id="5og-jq-2tI.title">
         <source>Convert to Bulleted List</source>
-        <target>Convert to Bulleted List</target>
+        <target>Converti in Elenco puntato</target>
         <note>Class = "NSMenuItem"; title = "Convert to Bulleted List"; ObjectID = "5og-jq-2tI";</note>
       </trans-unit>
       <trans-unit id="6dh-zS-Vam.title">
         <source>Redo</source>
-        <target>Redo</target>
+        <target>Ripristina</target>
         <note>Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam";</note>
       </trans-unit>
       <trans-unit id="9ic-FL-obx.title">
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="AzW-Gp-4gr.title">
         <source>Shift Right</source>
-        <target>Shift Right</target>
+        <target>Destra</target>
         <note>Class = "NSMenuItem"; title = "Shift Right"; ObjectID = "AzW-Gp-4gr";</note>
       </trans-unit>
       <trans-unit id="BOF-NM-1cW.title">
@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="CUQ-pB-7ke.title">
         <source>Toggle Info</source>
-        <target>Toggle Info</target>
+        <target>Mostra/Nascondi Info</target>
         <note>Class = "NSMenuItem"; title = "Toggle Info"; ObjectID = "CUQ-pB-7ke";</note>
       </trans-unit>
       <trans-unit id="DVo-aG-piG.title">
@@ -162,17 +162,17 @@
       </trans-unit>
       <trans-unit id="FvI-uu-IOU.title">
         <source>Refresh Preview</source>
-        <target>Refresh Preview</target>
+        <target>Aggiorna Anteprima</target>
         <note>Class = "NSMenuItem"; title = "Refresh Preview"; ObjectID = "FvI-uu-IOU";</note>
       </trans-unit>
       <trans-unit id="Fw9-MP-mpo.title">
         <source>Zoom Preview In</source>
-        <target>Zoom Preview In</target>
+        <target>Ingrandisci Anteprima</target>
         <note>Class = "NSMenuItem"; title = "Zoom Preview In"; ObjectID = "Fw9-MP-mpo";</note>
       </trans-unit>
       <trans-unit id="GAQ-Di-rdZ.title">
         <source>Swap Visible Panels</source>
-        <target>Swap Visible Panels</target>
+        <target>Scambia pannelli visibili</target>
         <note>Class = "NSMenuItem"; title = "Swap Visible Panels"; ObjectID = "GAQ-Di-rdZ";</note>
       </trans-unit>
       <trans-unit id="GEO-Iw-cKr.title">
@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="HFQ-gK-NFA.title">
         <source>Text Replacement</source>
-        <target>Text Replacement</target>
+        <target>Sostituzione testo</target>
         <note>Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA";</note>
       </trans-unit>
       <trans-unit id="HFo-cy-zxI.title">
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="Ik8-se-JPW.title">
         <source>Paste as Blockquote</source>
-        <target>Paste as Blockquote</target>
+        <target>Incolla come citazione</target>
         <note>Class = "NSMenuItem"; title = "Paste as Blockquote"; ObjectID = "Ik8-se-JPW";</note>
       </trans-unit>
       <trans-unit id="J1I-Fz-3P1.title">
