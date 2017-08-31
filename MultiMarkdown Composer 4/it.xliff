@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="3Xd-tL-mdg.title">
         <source>Go to Right Sidebar</source>
-        <target>Go to Right Sidebar</target>
+        <target>Vai nel Pannello destro</target>
         <note>Class = "NSMenuItem"; title = "Go to Right Sidebar"; ObjectID = "3Xd-tL-mdg";</note>
       </trans-unit>
       <trans-unit id="3rS-ZA-NoH.title">
@@ -97,7 +97,7 @@
       </trans-unit>
       <trans-unit id="9yt-4B-nSM.title">
         <source>Smart Copy/Paste</source>
-        <target>Smart Copy/Paste</target>
+        <target>Copia/Incolla Smart</target>
         <note>Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM";</note>
       </trans-unit>
       <trans-unit id="78Y-hA-62v.title">
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="aTc-nR-kEz.title">
         <source>Paste as Enumerated List</source>
-        <target>Incolla come  Elenco numerato</target>
+        <target>Incolla come Elenco numerato</target>
         <note>Class = "NSMenuItem"; title = "Paste as Enumerated List"; ObjectID = "aTc-nR-kEz";</note>
       </trans-unit>
       <trans-unit id="aTl-1u-JFS.title">
@@ -541,7 +541,7 @@
       </trans-unit>
       <trans-unit id="eLH-5x-VSG.title">
         <source>Go to Left Sidebar</source>
-        <target>Go to Left Sidebar</target>
+        <target>Vai al Pannello sinistro</target>
         <note>Class = "NSMenuItem"; title = "Go to Left Sidebar"; ObjectID = "eLH-5x-VSG";</note>
       </trans-unit>
       <trans-unit id="euj-Xf-Rbo.title">
@@ -696,7 +696,7 @@
       </trans-unit>
       <trans-unit id="rAq-Kd-7h5.title">
         <source>Swap Preview Side</source>
-        <target>Swap Preview Side</target>
+        <target>Scambia pannello Anteprima</target>
         <note>Class = "NSMenuItem"; title = "Swap Preview Side"; ObjectID = "rAq-Kd-7h5";</note>
       </trans-unit>
       <trans-unit id="rbD-Rh-wIN.title">
@@ -776,7 +776,7 @@
       </trans-unit>
       <trans-unit id="vmV-6d-7jI.title">
         <source>Make Upper Case</source>
-        <target>Tutto maiuscolo</target>
+        <target>Caratteri maiuscoli</target>
         <note>Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI";</note>
       </trans-unit>
       <trans-unit id="wpr-3q-Mcd.title">
@@ -828,7 +828,7 @@
     <body>
       <trans-unit id="0Kt-kB-Ado.title">
         <source>Simulate ownership of "Pro" Feature Set</source>
-        <target>Simulate ownership of "Pro" Feature Set</target>
+        <target>Simula versione "Pro"</target>
         <note>Class = "NSButtonCell"; title = "Simulate ownership of \"Pro\" Feature Set"; ObjectID = "0Kt-kB-Ado";</note>
       </trans-unit>
       <trans-unit id="0ig-Id-h4S.title">
@@ -838,7 +838,7 @@
       </trans-unit>
       <trans-unit id="0rP-vw-fZj.title">
         <source>Default Preview CSS</source>
-        <target>Default Preview CSS</target>
+        <target>Anteprima CSS predefinita</target>
         <note>Class = "NSTextFieldCell"; title = "Default Preview CSS"; ObjectID = "0rP-vw-fZj";</note>
       </trans-unit>
       <trans-unit id="1FU-mu-qae.ibShadowedToolTip">
@@ -855,7 +855,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="2IS-Nr-3Zi.title">
         <source>Open Themes Folder</source>
-        <target>Open Themes Folder</target>
+        <target>Apri cartella dei Temi</target>
         <note>Class = "NSButtonCell"; title = "Open Themes Folder"; ObjectID = "2IS-Nr-3Zi";</note>
       </trans-unit>
       <trans-unit id="3Aw-Ye-hkD.title">
@@ -865,7 +865,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="3NB-Uy-OaN.title">
         <source>Require space or punctuation after expansion</source>
-        <target>Require trigger key after expansion (e.g. space, tab, punctuation)</target>
+        <target>Richiedi carattere dopo espansione (es. spazio, tabulazione, punteggiatura)</target>
         <note>Class = "NSButtonCell"; title = "Require space or punctuation after expansion"; ObjectID = "3NB-Uy-OaN";</note>
       </trans-unit>
       <trans-unit id="3gh-s1-pKb.title">
@@ -875,7 +875,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="4VL-MI-7cC.title">
         <source>Modifier key</source>
-        <target>Modifier key</target>
+        <target>Tasto modificatore</target>
         <note>Class = "NSTextFieldCell"; title = "Modifier key"; ObjectID = "4VL-MI-7cC";</note>
       </trans-unit>
       <trans-unit id="5JY-9e-eJl.title">
@@ -885,17 +885,17 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="5KT-VJ-DsW.title">
         <source>Update preview only when file is saved</source>
-        <target>Update preview only when file is saved</target>
+        <target>Aggiorna Anteprima dopo salvataggio</target>
         <note>Class = "NSButtonCell"; title = "Update preview only when file is saved"; ObjectID = "5KT-VJ-DsW";</note>
       </trans-unit>
       <trans-unit id="6jy-oG-hff.title">
         <source>Footer template</source>
-        <target>Footer template</target>
+        <target>Stringa del piè di pagina</target>
         <note>Class = "NSTextFieldCell"; title = "Footer template"; ObjectID = "6jy-oG-hff";</note>
       </trans-unit>
       <trans-unit id="6uQ-iR-AT6.title">
         <source>Enable macOS Auto Save</source>
-        <target>Enable macOS Auto Save</target>
+        <target>Attiva autosalvataggio di sistema</target>
         <note>Class = "NSButtonCell"; title = "Enable macOS Auto Save"; ObjectID = "6uQ-iR-AT6";</note>
       </trans-unit>
       <trans-unit id="7Wp-Ag-Fi8.title">
@@ -915,12 +915,12 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="015-pY-9zH.title">
         <source>Check for announcements on our web site</source>
-        <target>Check for announcements on our web site</target>
+        <target>Controlla aggiornamenti sul sito</target>
         <note>Class = "NSButtonCell"; title = "Check for announcements on our web site"; ObjectID = "015-pY-9zH";</note>
       </trans-unit>
       <trans-unit id="33F-Pb-GNT.title">
         <source>Marker for emphasis</source>
-        <target>Marker for emphasis</target>
+        <target>Carattere per corsivo</target>
         <note>Class = "NSTextFieldCell"; title = "Marker for emphasis"; ObjectID = "33F-Pb-GNT";</note>
       </trans-unit>
       <trans-unit id="48a-8M-6HH.title">
@@ -930,7 +930,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="AXr-tN-BMy.title">
         <source>Automatically format next line in tables</source>
-        <target>Automatically format next line in tables</target>
+        <target>Aggiungi automaticamente | nella nuova riga di tabella</target>
         <note>Class = "NSButtonCell"; title = "Automatically format next line in tables"; ObjectID = "AXr-tN-BMy";</note>
       </trans-unit>
       <trans-unit id="B0e-4A-pfr.title">
@@ -940,17 +940,17 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="B9f-V4-xPE.title">
         <source>MultiMarkdown Options</source>
-        <target>MultiMarkdown Options</target>
+        <target>Opzioni MultiMarkdown</target>
         <note>Class = "NSTextFieldCell"; title = "MultiMarkdown Options"; ObjectID = "B9f-V4-xPE";</note>
       </trans-unit>
       <trans-unit id="BMg-Z1-jea.title">
         <source>Simulate ownership of "Standard" Feature Set</source>
-        <target>Simulate ownership of "Standard" Feature Set</target>
+        <target>Simula versione "Standard"</target>
         <note>Class = "NSButtonCell"; title = "Simulate ownership of \"Standard\" Feature Set"; ObjectID = "BMg-Z1-jea";</note>
       </trans-unit>
       <trans-unit id="BRP-n2-wdi.title">
         <source>Insert automatic comment with CriticMarkup</source>
-        <target>Insert automatic comment with CriticMarkup</target>
+        <target>Inserisci commento automatico con CriticMarkup</target>
         <note>Class = "NSButtonCell"; title = "Insert automatic comment with CriticMarkup"; ObjectID = "BRP-n2-wdi";</note>
       </trans-unit>
       <trans-unit id="BnL-NK-rdh.title">
@@ -965,7 +965,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="CiI-rp-Z89.title">
         <source>Automatically insert '&gt;' in blockquotes</source>
-        <target>Automatically insert '&gt;' in blockquotes</target>
+        <target>Inserisci automaticante '&gt;' nel blocco citazione</target>
         <note>Class = "NSButtonCell"; title = "Automatically insert '&gt;' in blockquotes"; ObjectID = "CiI-rp-Z89";</note>
       </trans-unit>
       <trans-unit id="DAt-C5-XE8.title">
@@ -1000,7 +1000,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="FMk-hz-NXH.title">
         <source>Include preview CSS when exporting to HTML</source>
-        <target>Include preview CSS when exporting to HTML</target>
+        <target>Includi anteprima CSS nella esportazione in HTML</target>
         <note>Class = "NSButtonCell"; title = "Include preview CSS when exporting to HTML"; ObjectID = "FMk-hz-NXH";</note>
       </trans-unit>
       <trans-unit id="FcI-n3-vWc.title">
@@ -1015,7 +1015,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="G4X-X6-l7D.title">
         <source>Add headers/footers when printing</source>
-        <target>Add headers/footers when printing</target>
+        <target>Aggiungi Intestazione/Piè di pagina nella stampa</target>
         <note>Class = "NSButtonCell"; title = "Add headers/footers when printing"; ObjectID = "G4X-X6-l7D";</note>
       </trans-unit>
       <trans-unit id="GWF-SO-BW6.title">
@@ -1025,7 +1025,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="Gar-Xt-cZ4.title">
         <source>Regular Undo</source>
-        <target>Regular Undo mode</target>
+        <target>Ripristina regolare</target>
         <note>Class = "NSButtonCell"; title = "Regular Undo"; ObjectID = "Gar-Xt-cZ4";</note>
       </trans-unit>
       <trans-unit id="I1l-5e-XOn.title">
@@ -1035,7 +1035,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="ILx-sz-Hvi.title">
         <source>More Themes</source>
-        <target>More Themes</target>
+        <target>Atri Temi</target>
         <note>Class = "NSButtonCell"; title = "More Themes"; ObjectID = "ILx-sz-Hvi";</note>
       </trans-unit>
       <trans-unit id="IiS-KJ-79M.title">
@@ -1064,7 +1064,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="LJz-LJ-0L0.title">
         <source>Default Theme</source>
-        <target>Default Theme</target>
+        <target>Tema predefinito</target>
         <note>Class = "NSTextFieldCell"; title = "Default Theme"; ObjectID = "LJz-LJ-0L0";</note>
       </trans-unit>
       <trans-unit id="LVS-rZ-4ZV.title">
@@ -1074,22 +1074,22 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="Ltp-lJ-Ock.title">
         <source>Automatically format next list item</source>
-        <target>Automatically format next list item</target>
+        <target>Imposta automaticamente elenchi</target>
         <note>Class = "NSButtonCell"; title = "Automatically format next list item"; ObjectID = "Ltp-lJ-Ock";</note>
       </trans-unit>
       <trans-unit id="Lu9-eq-OOw.title">
         <source>Display preview</source>
-        <target>Display preview</target>
+        <target>Mostra Anteprima</target>
         <note>Class = "NSButtonCell"; title = "Display preview"; ObjectID = "Lu9-eq-OOw";</note>
       </trans-unit>
       <trans-unit id="MKb-1g-Uus.title">
         <source>Enable automatic text expansion</source>
-        <target>Enable automatic text expansion</target>
+        <target>Attiva espansione automatica del testo</target>
         <note>Class = "NSButtonCell"; title = "Enable automatic text expansion"; ObjectID = "MKb-1g-Uus";</note>
       </trans-unit>
       <trans-unit id="MNN-f3-jNK.title">
         <source>List markers</source>
-        <target>List markers</target>
+        <target>Carattere Elenco</target>
         <note>Class = "NSTextFieldCell"; title = "List markers"; ObjectID = "MNN-f3-jNK";</note>
       </trans-unit>
       <trans-unit id="MUb-VT-AmR.title">
