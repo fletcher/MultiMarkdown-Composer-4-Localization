@@ -860,7 +860,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="3Aw-Ye-hkD.title">
         <source>Default file extension</source>
-        <target>Default file extension</target>
+        <target>Estensione predefinita</target>
         <note>Class = "NSTextFieldCell"; title = "Default file extension"; ObjectID = "3Aw-Ye-hkD";</note>
       </trans-unit>
       <trans-unit id="3NB-Uy-OaN.title">
@@ -910,7 +910,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="8Y0-CT-Dvj.title">
         <source>"Type over" periods</source>
-        <target>"Type over" periods</target>
+        <target>"Oltrepassa" punto</target>
         <note>Class = "NSButtonCell"; title = "\"Type over\" periods"; ObjectID = "8Y0-CT-Dvj";</note>
       </trans-unit>
       <trans-unit id="015-pY-9zH.title">
@@ -980,7 +980,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="Dbc-aC-nlB.title">
         <source>Center</source>
-        <target>Center</target>
+        <target>Centrato</target>
         <note>Class = "NSMenuItem"; title = "Center"; ObjectID = "Dbc-aC-nlB";</note>
       </trans-unit>
       <trans-unit id="EPT-OU-08Y.title">
@@ -1035,7 +1035,7 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="ILx-sz-Hvi.title">
         <source>More Themes</source>
-        <target>Atri Temi</target>
+        <target>Altri Temi</target>
         <note>Class = "NSButtonCell"; title = "More Themes"; ObjectID = "ILx-sz-Hvi";</note>
       </trans-unit>
       <trans-unit id="IiS-KJ-79M.title">
@@ -1045,12 +1045,12 @@ http://www.cplusplus.com/reference/ctime/strftime/</target>
       </trans-unit>
       <trans-unit id="J1b-u1-pNY.title">
         <source>Left</source>
-        <target>Left</target>
+        <target>Sinistra</target>
         <note>Class = "NSMenuItem"; title = "Left"; ObjectID = "J1b-u1-pNY";</note>
       </trans-unit>
       <trans-unit id="JuI-oa-hxv.title">
         <source>Comment</source>
-        <target>Comment</target>
+        <target>Commento</target>
         <note>Class = "NSTextFieldCell"; title = "Comment"; ObjectID = "JuI-oa-hxv";</note>
       </trans-unit>
       <trans-unit id="KBP-X4-E4K.title">
@@ -1099,12 +1099,12 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="NTX-dE-V5i.title">
         <source>Top/Bottom padding around text (Pixels)</source>
-        <target>Top/Bottom padding around text (Pixels)</target>
+        <target>Spazio alto/basso intorno al testo (pixel)</target>
         <note>Class = "NSTextFieldCell"; title = "Top/Bottom padding around text (Pixels)"; ObjectID = "NTX-dE-V5i";</note>
       </trans-unit>
       <trans-unit id="NV8-zf-JKj.title">
         <source>Accept all proposed changes</source>
-        <target>Accept all proposed changes</target>
+        <target>Accetta tutte le correzioni proposte</target>
         <note>Class = "NSButtonCell"; title = "Accept all proposed changes"; ObjectID = "NV8-zf-JKj";</note>
       </trans-unit>
       <trans-unit id="O3b-lT-z31.title">
@@ -1114,7 +1114,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="OJI-ih-x9H.title">
         <source>Automatically update when file is changed by another program</source>
-        <target>Automatically update when file is changed by another program</target>
+        <target>Aggiorna automaticamente quando il documento è modificato da un altro programma</target>
         <note>Class = "NSButtonCell"; title = "Automatically update when file is changed by another program"; ObjectID = "OJI-ih-x9H";</note>
       </trans-unit>
       <trans-unit id="Okq-yH-mU7.ibShadowedDisplayPattern">
@@ -1129,7 +1129,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="Owk-kt-9hl.title">
         <source>Sign up for our mailing list</source>
-        <target>Sign up for our mailing list</target>
+        <target>Iscriviti alla mailing list</target>
         <note>Class = "NSTextFieldCell"; title = "Sign up for our mailing list"; ObjectID = "Owk-kt-9hl";</note>
       </trans-unit>
       <trans-unit id="PHC-i8-jLo.title">
@@ -1139,12 +1139,12 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="Pif-wv-sct.title">
         <source>Left/Right padding around text (Pixels)</source>
-        <target>Left/Right padding around text (Pixels)</target>
+        <target>Spazio sinistra/destra intorno al testo (pixel)</target>
         <note>Class = "NSTextFieldCell"; title = "Left/Right padding around text (Pixels)"; ObjectID = "Pif-wv-sct";</note>
       </trans-unit>
       <trans-unit id="PpI-Vn-ztt.title">
         <source>Advanced Preview Preferences</source>
-        <target>Advanced Preview Preferences</target>
+        <target>Preferenze avanzate di Anteprima</target>
         <note>Class = "NSTextFieldCell"; title = "Advanced Preview Preferences"; ObjectID = "PpI-Vn-ztt";</note>
       </trans-unit>
       <trans-unit id="Q2V-Ew-tkk.title">
@@ -1154,7 +1154,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="QWQ-DL-ugk.title">
         <source>Maximum Full Screen Width (Pixels)</source>
-        <target>Maximum Full Screen Width (Pixels)</target>
+        <target>Larghezza massima per Schermo intero (pixel)</target>
         <note>Class = "NSTextFieldCell"; title = "Maximum Full Screen Width (Pixels)"; ObjectID = "QWQ-DL-ugk";</note>
       </trans-unit>
       <trans-unit id="QwP-oL-chK.title">
@@ -1164,12 +1164,12 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="ROB-aS-ecB.title">
         <source>Including footnotes</source>
-        <target>Including footnotes</target>
+        <target>Comprese note a piè di pagina</target>
         <note>Class = "NSButtonCell"; title = "Including footnotes"; ObjectID = "ROB-aS-ecB";</note>
       </trans-unit>
       <trans-unit id="Raw-EJ-sQZ.title">
         <source>Sync macOS and MMD tags</source>
-        <target>Sync macOS and MMD tags</target>
+        <target>Sincronizza etichette tra macOS e MMD</target>
         <note>Class = "NSButtonCell"; title = "Sync macOS and MMD tags"; ObjectID = "Raw-EJ-sQZ";</note>
       </trans-unit>
       <trans-unit id="RuC-Zh-ItF.title">
@@ -1179,7 +1179,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="S9X-16-SYs.title">
         <source>Text Alignment</source>
-        <target>Text Alignment</target>
+        <target>Allineamento del testo</target>
         <note>Class = "NSTextFieldCell"; title = "Text Alignment"; ObjectID = "S9X-16-SYs";</note>
       </trans-unit>
       <trans-unit id="SAL-Ee-c9m.title">
@@ -1194,7 +1194,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="UMK-Pz-CZv.title">
         <source>Preview starts on right</source>
-        <target>Preview starts on right</target>
+        <target>Pannello Anteprima a sinistra</target>
         <note>Class = "NSButtonCell"; title = "Preview starts on right"; ObjectID = "UMK-Pz-CZv";</note>
       </trans-unit>
       <trans-unit id="V0x-Wm-1SB.title">
@@ -1254,7 +1254,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="YBo-Xp-aNg.title">
         <source>History Mode Undo</source>
-        <target>History Undo mode</target>
+        <target>Modalità Ripristina storico</target>
         <note>Class = "NSButtonCell"; title = "History Mode Undo"; ObjectID = "YBo-Xp-aNg";</note>
       </trans-unit>
       <trans-unit id="YfQ-za-V6m.title">
@@ -1293,7 +1293,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="akJ-Lc-W0x.title">
         <source>Reject all proposed changes</source>
-        <target>Reject all proposed changes</target>
+        <target>Rifiuta tutti i cambiamenti proposti</target>
         <note>Class = "NSButtonCell"; title = "Reject all proposed changes"; ObjectID = "akJ-Lc-W0x";</note>
       </trans-unit>
       <trans-unit id="avf-0p-yft.title">
@@ -1363,7 +1363,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="hwb-EB-yB1.title">
         <source>Sign up</source>
-        <target>Sign up</target>
+        <target>Pagina di iscrizione</target>
         <note>Class = "NSButtonCell"; title = "Sign up"; ObjectID = "hwb-EB-yB1";</note>
       </trans-unit>
       <trans-unit id="ijz-bS-5o4.title">
@@ -1373,7 +1373,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="j6m-nA-WoX.title">
         <source>Default Font</source>
-        <target>Default Font</target>
+        <target>Carattere predefinito</target>
         <note>Class = "NSTextFieldCell"; title = "Default Font"; ObjectID = "j6m-nA-WoX";</note>
       </trans-unit>
       <trans-unit id="jLU-RB-8hK.title">
@@ -1443,7 +1443,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="rvs-qu-JG5.title">
         <source>Latest Announcement</source>
-        <target>Latest Announcement</target>
+        <target>Ultimo aggiornamento</target>
         <note>Class = "NSButtonCell"; title = "Latest Announcement"; ObjectID = "rvs-qu-JG5";</note>
       </trans-unit>
       <trans-unit id="rxP-NS-Cfj.title">
@@ -1542,7 +1542,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="xKM-1p-IgB.title">
         <source>Default Zoom (%)</source>
-        <target>Default Zoom (%)</target>
+        <target>Ingrandimento predefinito (%)</target>
         <note>Class = "NSTextFieldCell"; title = "Default Zoom (%)"; ObjectID = "xKM-1p-IgB";</note>
       </trans-unit>
       <trans-unit id="yLi-uw-nWo.title">
