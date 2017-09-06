@@ -182,7 +182,7 @@
       </trans-unit>
       <trans-unit id="GcV-yp-6pY.title">
         <source>"Smart" Typography in Selected Text</source>
-        <target>"Smart" Typography in Selected Text</target>
+        <target>Caratteri "Smart" nel testo selezionato</target>
         <note>Class = "NSMenuItem"; title = "\"Smart\" Typography in Selected Text"; ObjectID = "GcV-yp-6pY";</note>
       </trans-unit>
       <trans-unit id="H8h-7b-M4v.title">
@@ -656,12 +656,12 @@
       </trans-unit>
       <trans-unit id="oH2-Dt-76O.title">
         <source>Clean Up</source>
-        <target>Clean Up</target>
+        <target>Regolarizza</target>
         <note>Class = "NSMenuItem"; title = "Clean Up"; ObjectID = "oH2-Dt-76O";</note>
       </trans-unit>
       <trans-unit id="oMZ-eF-Nk6.title">
         <source>Clean Up</source>
-        <target>Clean Up</target>
+        <target>Regolarizza</target>
         <note>Class = "NSMenu"; title = "Clean Up"; ObjectID = "oMZ-eF-Nk6";</note>
       </trans-unit>
       <trans-unit id="oas-Oc-fiZ.title">
@@ -806,7 +806,7 @@
       </trans-unit>
       <trans-unit id="ynL-oi-zDe.title">
         <source>Full Cleanup</source>
-        <target>Full Cleanup</target>
+        <target>Tutto</target>
         <note>Class = "NSMenuItem"; title = "Full Cleanup"; ObjectID = "ynL-oi-zDe";</note>
       </trans-unit>
       <trans-unit id="z6F-FW-3nz.title">
@@ -816,7 +816,7 @@
       </trans-unit>
       <trans-unit id="zcN-VX-Koq.title">
         <source>Toggle References</source>
-        <target>Mostra/Nascondi References</target>
+        <target>Mostra/Nascondi Riferimenti</target>
         <note>Class = "NSMenuItem"; title = "Toggle References"; ObjectID = "zcN-VX-Koq";</note>
       </trans-unit>
     </body>
