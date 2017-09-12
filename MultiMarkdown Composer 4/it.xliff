@@ -1522,7 +1522,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="wFN-ww-fPc.title">
         <source>Preferred Syntax Markers</source>
-        <target>Preferred Syntax Markers</target>
+        <target>Caratteri preferiti per la formattazione</target>
         <note>Class = "NSTextFieldCell"; title = "Preferred Syntax Markers"; ObjectID = "wFN-ww-fPc";</note>
       </trans-unit>
       <trans-unit id="wdG-YS-L1b.title">
@@ -1532,7 +1532,7 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="wrW-ur-U9p.title">
         <source>Date format string</source>
-        <target>Date format string</target>
+        <target>Formato della data</target>
         <note>Class = "NSTextFieldCell"; title = "Date format string"; ObjectID = "wrW-ur-U9p";</note>
       </trans-unit>
       <trans-unit id="wti-ss-mRq.title">
@@ -1547,17 +1547,17 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="yLi-uw-nWo.title">
         <source>Marker for strong</source>
-        <target>Marker for strong</target>
+        <target>Carattere per grassetto</target>
         <note>Class = "NSTextFieldCell"; title = "Marker for strong"; ObjectID = "yLi-uw-nWo";</note>
       </trans-unit>
       <trans-unit id="ycN-qd-eP8.title">
         <source>Tabs equal</source>
-        <target>Tabs equal</target>
+        <target>La tabulazione corrisponde a</target>
         <note>Class = "NSTextFieldCell"; title = "Tabs equal"; ObjectID = "ycN-qd-eP8";</note>
       </trans-unit>
       <trans-unit id="z0w-aY-GFf.title">
         <source>Text Expansion</source>
-        <target>Text Expansion</target>
+        <target>Espansione testo</target>
         <note>Class = "NSTextFieldCell"; title = "Text Expansion"; ObjectID = "z0w-aY-GFf";</note>
       </trans-unit>
       <trans-unit id="z3b-XN-1j6.title">
@@ -1567,12 +1567,12 @@ History Mode Undo allows you to step backwards and forwards even if you typed so
       </trans-unit>
       <trans-unit id="zNa-gY-OFe.title">
         <source>Preview using "Marked"</source>
-        <target>Preview using "Marked"</target>
+        <target>Anteprima con "Marked"</target>
         <note>Class = "NSButtonCell"; title = "Preview using \"Marked\""; ObjectID = "zNa-gY-OFe";</note>
       </trans-unit>
       <trans-unit id="zfg-yJ-DIW.title">
         <source>Append '#' to end of headings</source>
-        <target>Append '#' to end of headings</target>
+        <target>Aggiungi '#' dopo titoli</target>
         <note>Class = "NSButtonCell"; title = "Append '#' to end of headings"; ObjectID = "zfg-yJ-DIW";</note>
       </trans-unit>
     </body>
