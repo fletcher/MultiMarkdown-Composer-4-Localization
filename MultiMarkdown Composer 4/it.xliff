@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="Ik8-se-JPW.title">
         <source>Paste as Blockquote</source>
-        <target>Incolla come citazione</target>
+        <target>Incolla come Blocco citazione</target>
         <note>Class = "NSMenuItem"; title = "Paste as Blockquote"; ObjectID = "Ik8-se-JPW";</note>
       </trans-unit>
       <trans-unit id="J1I-Fz-3P1.title">
@@ -361,6 +361,7 @@
         <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
       </trans-unit>
       <trans-unit id="W7l-WU-jpO.title">
+        <source>Learn about the Pro Upgrade</source>
         <source>Informazioni sulla versione Pro</source>
         <note>Class = "NSMenuItem"; title = "Learn about the Pro Upgrade"; ObjectID = "W7l-WU-jpO";</note>
       </trans-unit>
@@ -406,7 +407,7 @@
       </trans-unit>
       <trans-unit id="YqL-9h-FSs.title">
         <source>Unwrap Selected Paragraph(s)</source>
-        <target>Unwrap Selected Paragraph(s)</target>
+        <target>Cancella Fine riga</target>
         <note>Class = "NSMenuItem"; title = "Unwrap Selected Paragraph(s)"; ObjectID = "YqL-9h-FSs";</note>
       </trans-unit>
       <trans-unit id="ZDo-jE-PaQ.title">
@@ -416,7 +417,7 @@
       </trans-unit>
       <trans-unit id="ZNk-Md-tMQ.title">
         <source>Apply Title Case to Selection</source>
-        <target>Modalità Titolo alla selezione</target>
+        <target>Applica Maiuscole Titolo Alla Selezione</target>
         <note>Class = "NSMenuItem"; title = "Apply Title Case to Selection"; ObjectID = "ZNk-Md-tMQ";</note>
       </trans-unit>
       <trans-unit id="Zd3-w4-hAu.title">
@@ -461,7 +462,7 @@
       </trans-unit>
       <trans-unit id="bIK-rb-0jl.title">
         <source>Track Changes</source>
-        <target>Track Changes</target>
+        <target>Rileva modifiche</target>
         <note>Class = "NSMenuItem"; title = "Track Changes"; ObjectID = "bIK-rb-0jl";</note>
       </trans-unit>
       <trans-unit id="bRV-rt-wI7.title">
@@ -506,7 +507,7 @@
       </trans-unit>
       <trans-unit id="cwL-P1-jid.title">
         <source>Smart Links</source>
-        <target>Smart Links</target>
+        <target>Smart Link</target>
         <note>Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid";</note>
       </trans-unit>
       <trans-unit id="d9M-CD-aMd.title">
