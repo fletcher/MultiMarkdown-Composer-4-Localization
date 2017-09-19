@@ -507,7 +507,7 @@
       </trans-unit>
       <trans-unit id="cwL-P1-jid.title">
         <source>Smart Links</source>
-        <target>Smart Link</target>
+        <target>Link smart</target>
         <note>Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid";</note>
       </trans-unit>
       <trans-unit id="d9M-CD-aMd.title">
@@ -547,7 +547,7 @@
       </trans-unit>
       <trans-unit id="euj-Xf-Rbo.title">
         <source>Transclude to New File</source>
-        <target>Transclude to New File</target>
+        <target>Crea nuovo file con espansioni Incluse</target>
         <note>Class = "NSMenuItem"; title = "Transclude to New File"; ObjectID = "euj-Xf-Rbo";</note>
       </trans-unit>
       <trans-unit id="eyD-bq-B2n.title">
@@ -587,7 +587,7 @@
       </trans-unit>
       <trans-unit id="hQb-2v-fYv.title">
         <source>Smart Quotes</source>
-        <target>Smart Quotes</target>
+        <target>Virgolette smart</target>
         <note>Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv";</note>
       </trans-unit>
       <trans-unit id="hz2-CU-CR7.title">
@@ -707,7 +707,7 @@
       </trans-unit>
       <trans-unit id="rgM-f4-ycn.title">
         <source>Smart Dashes</source>
-        <target>Smart Dashes</target>
+        <target>Trattini smart</target>
         <note>Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn";</note>
       </trans-unit>
       <trans-unit id="rgP-6r-uDJ.title">
